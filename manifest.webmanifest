@@ -1,0 +1,19 @@
+{
+  "name": "Deutsch Sprint - 德语 A1 冲刺",
+  "short_name": "德语冲刺",
+  "description": "从德语零基础开始：听说读写、每日微课与间隔复习",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f8f4",
+  "theme_color": "#1d674e",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
